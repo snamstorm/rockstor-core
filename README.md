@@ -69,3 +69,4 @@ Rockstor's RESTful API allows automated storage provisioning and management,
 using which you can easily integrate into your Cloud environment.
 
 coverage test 1
+coverage test 2
