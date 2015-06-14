@@ -74,3 +74,4 @@ coverage test 3
 coverage test 4
 coverage test 5
 coverage test 6
+coverage test 7
